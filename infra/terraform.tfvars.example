@@ -1,0 +1,4 @@
+# Copy to terraform.tfvars and adjust if needed. Not committed (see .gitignore).
+resource_group_name  = "rg-ai200playground"
+storage_account_name = "ai200playgrounddev"
+# developer_object_id = "00000000-0000-0000-0000-000000000000"
